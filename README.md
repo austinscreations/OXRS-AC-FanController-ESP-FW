@@ -1,2 +1,2 @@
-# OXRS-AC-FanController-ESP32-FW
+# OXRS-AC-FanController-ESP-FW
 controller that can monitor rack case temperature and control fans
